@@ -13,6 +13,19 @@ namespace ConsoleApp1
             Console.WriteLine("Выберите действие: \n1) +\n2) -\n3) *\n4) /");
             int vari = int.Parse(Console.ReadLine());
 
+
+
+
+
+
+
+
+
+
+
+
+
+
             void pluss(int a, int b)
             {
                 Console.WriteLine(a + b);
