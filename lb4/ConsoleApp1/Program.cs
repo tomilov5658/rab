@@ -27,13 +27,24 @@ namespace ConsoleApp1
                     devide(A, B);
                     break;
             }
-            void minus(int a, int b)
-            {
-                Console.WriteLine(a - b);
-            }
             void pluss(int a, int b)
             {
                 Console.WriteLine(a + b);
+            }
+            void minus(int a, int b)
+            {
+                Console.WriteLine(a - b);
+            }       
+            void devide(int a, int b)
+            {
+                double _1 = (double)a;
+                double _2 = (double)b;
+                Console.WriteLine(_1 / _2);
+            }
+            void multy(int a, int b)
+            {
+                Console.WriteLine(a * b);
+
             }
         }
     }
