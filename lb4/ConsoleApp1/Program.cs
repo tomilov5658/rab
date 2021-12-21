@@ -27,6 +27,15 @@ namespace ConsoleApp1
                     devide(A, B);
                     break;
             }
+<<<<<<< HEAD
+=======
+
+            void minus(int a, int b)
+            {
+                Console.WriteLine(a - b);
+            }
+>>>>>>> minus
         }
     }
+        
 }
