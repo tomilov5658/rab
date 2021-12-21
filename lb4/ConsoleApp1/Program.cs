@@ -35,6 +35,7 @@ namespace ConsoleApp1
             {
                 Console.WriteLine(a - b);
             }       
+            
             void devide(int a, int b)
             {
                 double _1 = (double)a;
