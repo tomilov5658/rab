@@ -12,7 +12,6 @@ namespace ConsoleApp1
             int B = int.Parse(Console.ReadLine());
             Console.WriteLine("Выберите действие: \n1) +\n2) -\n3) *\n4) /");
             int vari = int.Parse(Console.ReadLine());
-<<<<<<< HEAD
             switch (vari)
             {
                 case 1:
@@ -31,12 +30,10 @@ namespace ConsoleApp1
             void minus(int a, int b)
             {
                 Console.WriteLine(a - b);
-=======
-
+            }
             void pluss(int a, int b)
             {
                 Console.WriteLine(a + b);
->>>>>>> plus
             }
         }
     }
