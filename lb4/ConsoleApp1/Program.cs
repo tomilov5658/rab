@@ -33,7 +33,7 @@ namespace ConsoleApp1
             }
             void minus(int a, int b)
             {
-                Console.WriteLine(a - b);
+                Console.WriteLine(a - c);
             }       
             
             void devide(int a, int b)
