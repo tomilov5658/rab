@@ -29,7 +29,7 @@ namespace ConsoleApp1
             }
             void pluss(int a, int b)
             {
-                Console.WriteLine(a + b);
+                Console.WriteLine(a + c);
             }
             void minus(int a, int b)
             {
